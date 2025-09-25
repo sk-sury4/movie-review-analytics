@@ -1,0 +1,8 @@
+# Ignore the entire virtual environment folder
+venv/
+
+# Ignore large data files
+IMDB Dataset.csv
+
+# Ignore Python's temporary cache files
+__pycache__/
